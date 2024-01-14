@@ -4,8 +4,9 @@ import accesspackage1.*;
 public class ClassP2 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		ClassP1 ii = new ClassP1();
+		ClassP2second p2Second = new ClassP2Second();
+		p2Second.a = "Test";
 	}
 
 }
